@@ -6,6 +6,7 @@ class Studen{
     print(age);
 
   }
+
 }
 void main(){
   Studen aa=Studen();
@@ -15,4 +16,5 @@ void main(){
   Studen().age="11";
   Studen().rr();
   print(Studen().age);
+  print("ansif");gi
 }
